@@ -1,6 +1,6 @@
 #etch-a-sketch
 
-live Website: http://etch-a-sketch.mshreeram.in
+live Website: https://naveen1440.github.io/Sketch/
 
 
 #Demo:
